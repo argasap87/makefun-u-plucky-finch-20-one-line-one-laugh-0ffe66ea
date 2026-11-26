@@ -6,9 +6,9 @@
 
 ## The line
 
-> Therapist set boundaries: I only answer if you end your sentence with a question mark.
+> My phone's Face ID flinches every morning.
 
-86 characters, one line, no setup needed: the therapist's boundary is itself a grammar rule, and every statement you make to them becomes a question — therapy as a punctuation test.
+42 characters, one line, no setup needed: your phone doesn't fail to recognise you, it visibly recoils — the familiar unlock feature turned into a tiny daily betrayal, with the punchline landing on the last word.
 
 ## How it works
 

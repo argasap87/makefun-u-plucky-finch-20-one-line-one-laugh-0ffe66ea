@@ -1,10 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// Hook: the therapist's boundary is itself a grammar rule — every
-// statement a patient makes becomes a question, so therapy turns into
-// a punctuation test. One tight line, no setup, punchline lands inside it.
-const LINE = "Therapist set boundaries: I only answer if you end your sentence with a question mark.";
+// Hook: your phone is horrified by your morning face. Face ID doesn't fail
+// or refuse — it flinches. One image, punchline on the last word, zero setup.
+// Supersedes the therapist-boundaries line: shorter, faster, fresher.
+const LINE = "My phone's Face ID flinches every morning.";
 
 // Gate guard: single funny line, 1-200 chars, not only whitespace.
 if (LINE.length < 1 || LINE.length > 200 || LINE.trim().length === 0 || LINE.includes("\n")) {
